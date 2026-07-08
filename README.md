@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/armaankhan2905/leetcode/tree/master/0009-palindrome-number) |
+| [0319-bulb-switcher](https://github.com/armaankhan2905/leetcode/tree/master/0319-bulb-switcher) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/armaankhan2905/leetcode/tree/master/0058-length-of-last-word) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/armaankhan2905/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
