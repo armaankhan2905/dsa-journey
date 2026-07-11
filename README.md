@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/armaankhan2905/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/armaankhan2905/leetcode/tree/master/0048-rotate-image) |
 | [0319-bulb-switcher](https://github.com/armaankhan2905/leetcode/tree/master/0319-bulb-switcher) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/armaankhan2905/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/armaankhan2905/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/armaankhan2905/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/armaankhan2905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/armaankhan2905/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/armaankhan2905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
