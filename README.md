@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/armaankhan2905/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaankhan2905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Trie
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/armaankhan2905/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/armaankhan2905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaankhan2905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
