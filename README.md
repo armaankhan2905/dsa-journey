@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/armaankhan2905/leetcode/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/armaankhan2905/leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/armaankhan2905/leetcode/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/armaankhan2905/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/armaankhan2905/leetcode/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/armaankhan2905/leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/armaankhan2905/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
