@@ -5,13 +5,16 @@ class Solution {
             if(nums[i] == target){
                 return i;
             }
-        }
-
-        for(int i=0; i<nums.length; i++){
-            if(nums[i]>target){
+            else if(nums[i]>target){
                 return i;
             }
         }
+
+        // for(int i=0; i<nums.length; i++){
+        //     if(nums[i]>target){
+        //         return i;
+        //     }
+        // }
         return nums.length;
     }
 }
