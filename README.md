@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/armaankhan2905/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/armaankhan2905/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/armaankhan2905/leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/armaankhan2905/leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/armaankhan2905/leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/armaankhan2905/leetcode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/armaankhan2905/leetcode/tree/master/0342-power-of-four) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/armaankhan2905/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/armaankhan2905/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/armaankhan2905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/armaankhan2905/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
