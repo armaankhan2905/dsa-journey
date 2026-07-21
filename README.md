@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/armaankhan2905/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/armaankhan2905/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaankhan2905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -62,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/armaankhan2905/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/armaankhan2905/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaankhan2905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/armaankhan2905/leetcode/tree/master/0027-remove-element) |
+| [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/armaankhan2905/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/armaankhan2905/leetcode/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
