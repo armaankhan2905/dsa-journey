@@ -1,23 +1,10 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int size = nums.length;
-        
-        for(int i=0; i<=size; i++){
-            boolean found = false;
-            for(int j = 0; j<size; j++) {
-                if(nums[j] == i){
-                    found = true;
-                    break;
-
-                }
-
-                
-            }
-            if(!found){
-                return i;
-            }
-            
+        int sum = 0;
+        for(int i=0; i<nums.length; i++){
+            sum+=nums[i];
         }
-        return -1;
+        int total = (nums.length)*(nums.length+1)/2;
+        return total-sum;
     }
 }
