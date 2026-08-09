@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/armaankhan2905/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/armaankhan2905/leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/armaankhan2905/leetcode/tree/master/0796-rotate-string) |
 ## Brainteaser
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/armaankhan2905/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/armaankhan2905/leetcode/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
