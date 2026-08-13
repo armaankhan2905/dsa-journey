@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/armaankhan2905/leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/armaankhan2905/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/armaankhan2905/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/armaankhan2905/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/armaankhan2905/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/armaankhan2905/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/armaankhan2905/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/armaankhan2905/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/armaankhan2905/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/armaankhan2905/leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/armaankhan2905/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/armaankhan2905/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/armaankhan2905/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/armaankhan2905/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/armaankhan2905/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
