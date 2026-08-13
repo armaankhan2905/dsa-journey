@@ -1,6 +1,5 @@
 class Solution {
     public int maxEqualRowsAfterFlips(int[][] matrix) {
-        // Map to store the frequency of each canonical row pattern
         Map<String, Integer> patternCounts = new HashMap<>();
         int maxRows = 0;
 
