@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/armaankhan2905/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/armaankhan2905/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/armaankhan2905/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/armaankhan2905/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/armaankhan2905/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/armaankhan2905/leetcode/tree/master/0319-bulb-switcher) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/armaankhan2905/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/armaankhan2905/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/armaankhan2905/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/armaankhan2905/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/armaankhan2905/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/armaankhan2905/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/armaankhan2905/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/armaankhan2905/leetcode/tree/master/0443-string-compression) |
