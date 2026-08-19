@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/armaankhan2905/leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/armaankhan2905/leetcode/tree/master/0796-rotate-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/armaankhan2905/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Brainteaser
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/armaankhan2905/leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/armaankhan2905/leetcode/tree/master/0999-available-captures-for-rook) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/armaankhan2905/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Binary Search
 |  |
 | ------- |
