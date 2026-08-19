@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/armaankhan2905/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/armaankhan2905/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/armaankhan2905/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/armaankhan2905/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/armaankhan2905/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/armaankhan2905/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/armaankhan2905/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/armaankhan2905/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/armaankhan2905/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/armaankhan2905/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/armaankhan2905/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/armaankhan2905/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/armaankhan2905/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/armaankhan2905/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/armaankhan2905/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -172,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaankhan2905/leetcode/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/armaankhan2905/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/armaankhan2905/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
