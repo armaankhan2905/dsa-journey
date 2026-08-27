@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/armaankhan2905/leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/armaankhan2905/leetcode/tree/master/0796-rotate-string) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/armaankhan2905/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2000-reverse-prefix-of-word](https://github.com/armaankhan2905/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/armaankhan2905/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Brainteaser
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/armaankhan2905/leetcode/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/armaankhan2905/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1861-rotating-the-box](https://github.com/armaankhan2905/leetcode/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/armaankhan2905/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/armaankhan2905/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 <!---LeetCode Topics End-->
