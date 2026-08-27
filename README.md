@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/armaankhan2905/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/armaankhan2905/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/armaankhan2905/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1861-rotating-the-box](https://github.com/armaankhan2905/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaankhan2905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Trie
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/armaankhan2905/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/armaankhan2905/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/armaankhan2905/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1861-rotating-the-box](https://github.com/armaankhan2905/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaankhan2905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/armaankhan2905/leetcode/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1861-rotating-the-box](https://github.com/armaankhan2905/leetcode/tree/master/1861-rotating-the-box) |
 ## String Matching
 |  |
 | ------- |
