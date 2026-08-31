@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/armaankhan2905/leetcode/tree/master/0917-reverse-only-letters) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/armaankhan2905/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2000-reverse-prefix-of-word](https://github.com/armaankhan2905/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/armaankhan2905/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/armaankhan2905/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Brainteaser
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/armaankhan2905/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaankhan2905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/armaankhan2905/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/armaankhan2905/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1861-rotating-the-box](https://github.com/armaankhan2905/leetcode/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/armaankhan2905/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/armaankhan2905/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
 | ------- |
