@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/armaankhan2905/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/armaankhan2905/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaankhan2905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1975-maximum-matrix-sum](https://github.com/armaankhan2905/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/armaankhan2905/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/armaankhan2905/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/armaankhan2905/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/armaankhan2905/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1975-maximum-matrix-sum](https://github.com/armaankhan2905/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/armaankhan2905/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/armaankhan2905/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1975-maximum-matrix-sum](https://github.com/armaankhan2905/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Linked List
 |  |
 | ------- |
