@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/armaankhan2905/leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/armaankhan2905/leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/armaankhan2905/leetcode/tree/master/0917-reverse-only-letters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/armaankhan2905/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/armaankhan2905/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/armaankhan2905/leetcode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/armaankhan2905/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/armaankhan2905/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/armaankhan2905/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/armaankhan2905/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Matrix
 |  |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/armaankhan2905/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/armaankhan2905/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
