@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/armaankhan2905/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/armaankhan2905/leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [2643-row-with-maximum-ones](https://github.com/armaankhan2905/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Trie
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/armaankhan2905/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/armaankhan2905/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/armaankhan2905/leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [2643-row-with-maximum-ones](https://github.com/armaankhan2905/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
