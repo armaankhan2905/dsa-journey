@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/armaankhan2905/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/armaankhan2905/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/armaankhan2905/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/armaankhan2905/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/armaankhan2905/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/armaankhan2905/leetcode/tree/master/0319-bulb-switcher) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/armaankhan2905/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/armaankhan2905/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/armaankhan2905/leetcode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/armaankhan2905/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/armaankhan2905/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/armaankhan2905/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/armaankhan2905/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/armaankhan2905/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
