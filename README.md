@@ -311,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/armaankhan2905/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/armaankhan2905/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/armaankhan2905/leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
