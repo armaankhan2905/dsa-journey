@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/armaankhan2905/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/armaankhan2905/leetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/armaankhan2905/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/armaankhan2905/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/armaankhan2905/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/armaankhan2905/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/armaankhan2905/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/armaankhan2905/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/armaankhan2905/leetcode/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/armaankhan2905/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/armaankhan2905/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
