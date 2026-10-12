@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/armaankhan2905/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/armaankhan2905/leetcode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/armaankhan2905/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/armaankhan2905/leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/armaankhan2905/leetcode/tree/master/0796-rotate-string) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/armaankhan2905/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/armaankhan2905/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/armaankhan2905/leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/armaankhan2905/leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/armaankhan2905/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaankhan2905/leetcode/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/armaankhan2905/leetcode/tree/master/0394-decode-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/armaankhan2905/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/armaankhan2905/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
